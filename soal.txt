@@ -1,0 +1,37 @@
+Task 1 Kotlin Basic
+Submitted: 02/10, 10:04 AM
+Instructions
+Silahkan kerjakan assignment dibawah pada situs Try Online Kotlin, kemudian lampirkan link nya disini
+
+Buahlah sebuah function dengan 2 parameter (2 integer) mempunyai return value String , dan bisa di jalankan
+Buatlah sebuah function yang dapat menerima array deret bilangan dan mengembalikan bilangan yang genap saja
+Buat sebuah class mempunyai function dengan 3 parameter (int,string,double ) dengan return value int
+Buatlah sebuah function yang ada parameter integer ,di dalam function ada when expression, 
+         jika integer nilainya di atas 60 di bawah 80 --> memuaskan 
+        jika integer nilai di di atas 80 di bawah 90 --> sangat memuaskan 
+        jika integer nilainya di atas 90 di bawah 100 --> terpuji 
+        di bawah 60 --> tidak lulus
+        
+       
+       
+       
+       
+Task 2 - Kotlin Basic
+Submitted: 02/11, 6:35 AM
+Instructions
+Silahkan kerjakan assignment dibawah pada situs Try Online Kotlin, kemudian lampirkan link nya disini
+
+Buatlah sebuah function dengan 2 parameter (2 Double) mempunyai return value String , dan bisa di jalankan
+Buatlah sebuah function yang dapat menerima array deret bilangan dan mengembalikan bilangan yang ganjil saja
+Buatlah sebuah function dengan parameter array string Isi arraynya adalah {udacoding,tempat 2,tempat 3,tempat 4 ,tempat 5}Dan d looping,ketika isi array udacoding,berikan informasi “nah ini belajar coding yang keren”
+Di sini ada sebuah array,{“jakarta”,”jakarta”,”Padang”,”Solo”,”Padang”,”Bandung”,”Padang”,”Malang”,”Bali”}Ketika di running hasilnya seperti ini
+Jakarta : 2
+Padang : 2
+Solo : 1
+Bandung : 1
+Malang : 1
+Bali : 1
+
+
+
+
